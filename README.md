@@ -1,7 +1,6 @@
-![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-index-html-2025-05-17-23_21_24](https://github.com/user-attachments/assets/2fe65aa4-5ac2-439f-a83b-064b695bc233)
-
-![image](https://github.com/user-attachments/assets/d6f4c2ce-d287-4d62-803d-0007d7b4b617)
-![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-compare-html-2025-05-17-23_18_57](https://github.com/user-attachments/assets/7a76481d-70b6-45de-833c-5a4e8d21b777)
-![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-login-html-2025-05-17-23_19_48](https://github.com/user-attachments/assets/44e4d3b4-964d-4f6d-ac7b-b1900a2a014c)
-![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-cart-html-2025-05-17-23_20_22](https://github.com/user-attachments/assets/5a20adf0-8d1d-497b-9440-04a693c8458b)
-
+![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-index-html-2025-05-17-23_27_34](https://github.com/user-attachments/assets/2fd084aa-b435-47ed-87c4-9d9b29d89596)
+![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-shop-html-2025-05-17-23_28_13](https://github.com/user-attachments/assets/675e1525-6d76-4b4c-a321-700a9e040998)
+![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-myAccount-html-2025-05-17-23_28_43](https://github.com/user-attachments/assets/775fe4ed-9b95-4312-b7e1-955177ddf13e)
+![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-compare-html-2025-05-17-23_29_13](https://github.com/user-attachments/assets/0e8a3b6d-0cb1-4479-9cf7-dd3986b4d2fe)
+![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-login-html-2025-05-17-23_30_16](https://github.com/user-attachments/assets/2be7b04a-f125-42a3-a717-33a5426ec4df)
+![screencapture-file-C-Users-Vijay-Desktop-js-proj-e-commerce-site-main-cart-html-2025-05-17-23_30_42](https://github.com/user-attachments/assets/63ca094e-405b-4f43-b48f-d06cc50b40ec)
